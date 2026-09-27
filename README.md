@@ -15,8 +15,6 @@ An AI-powered Chrome Extension that integrates directly into Gmail and generates
 - REST APIs
 - LLM APIs (Gemini / OpenAI)
 
-## Setup
-
 ### Backend
 mvn spring-boot:run
 
@@ -26,6 +24,10 @@ mvn spring-boot:run
 3. Click "Load unpacked"
 4. Select the extension folder
 
-## Author
-Krish Prajapati  
-Java Backend Developer | Spring Boot | AI Integrations
+👨‍💻 Author
+Yogesh Savant
+
+IT Engineering Student | Java & Spring Boot Developer | Web Development Enthusiast
+
+GitHub:
+https://github.com/YogeshSavant-tech
